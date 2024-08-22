@@ -12,6 +12,7 @@
  <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
 </div>
+
 ### 폴더 구조
 
 ```zsh
@@ -39,3 +40,7 @@
  ┣ 📜index.css
  ┗ 📜index.js
 ```
+
+### 기타
+
+- 자유롭게 클론하셔서 사용하셔도 무방합니다.
